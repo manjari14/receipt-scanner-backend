@@ -96,3 +96,23 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> ⚠️ **Important**: You must add your Google Cloud service account credentials to `src/config/google-credentials.json` before running the app.
+>
+> This file is ignored in `.gitignore` for security reasons, so make sure to:
+> - Download your service account JSON key from the Google Cloud Console
+> - Save it as `src/config/google-credentials.json`
+
